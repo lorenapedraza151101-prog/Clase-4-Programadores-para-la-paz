@@ -1,0 +1,6 @@
+1.Buscar la información
+2.Verificar la fuente 
+3.Confirmar la noticia 
+4.Analizar otras fuentes 
+5.Buscar respaldo teórico, empírico o científico
+6.Compartir la noticia 
