@@ -1,0 +1,15 @@
+Pregunta 1: 
+Respuesta: B
+Pregunta 2: 
+Respuesta: C
+Pregunta 3: 
+Respuesta: B
+Pregunta 4: 
+Respuesta: Creo que como con cualquier otra herramienta -incluso fuera de la programación- es necesario el respeto, 
+la ética y la difusión de información de la forma más acertada posible, y eso es lo mas importante en el uso de programas como Git.
+Pues no podemos crear proyectos digitales de carácter comunitario o entorno a las necesidades de nuestra comunidad si no hacemos uso correcto y responsable de la información ciudadana.
+or ejemplo, no podemos crear plataformas, aplicaciones, páginas para difundir información, para visibilizar problemáticas, o con carácter educativo, pedagógico, 
+si se actúa manipulando, tergiversando información, incluso haciendo uso indebido o no autorizado de datos sensibles, o datos relevantes. 
+Pregunta 5: 
+Respuesta: 1).Buscar la información 2).Verificar la fuente 3).Confirmar la noticia 
+4).Analizar otras fuentes 5).Buscar respaldo teórico, empírico o científico 6).Compartir la noticia 
